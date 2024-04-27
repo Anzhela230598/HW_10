@@ -1,0 +1,122 @@
+    1  pwd
+    2  mkdir git_goit2024
+    3  cd git_goit2024
+    4  ls -l
+    5  -c && rm~/.bash_history
+    6  clear
+    7  -c && rm ~/.bash_history
+    8  clear
+    9  ls -l
+   10  git config --global user.name anzhela
+   11  git config --get user.name
+   12  git config --global user.email anzhela_stadnyk@ukr.net
+   13  git config user.email
+   14  git clone https://github.com/Anzhela230598/HW_10.git
+   15  ls -l
+   16  cd Hw_10
+   17  ls -l
+   18  clear
+   19  clear
+   20  clear
+   21  clear
+   22  clear
+   23  clear
+   24  mkdir git_goit2024
+   25  clear
+   26  cd Hw_10
+   27  clear
+   28  ls -l
+   29  clear
+   30  ls -la
+   31  clear
+   32  mkdir git_goit
+   33  cd git_goit
+   34  ls -l
+   35  git config --global user.name anzhela
+   36  git config -- get user.name
+   37  clear
+   38  get config user.name
+   39  mkdir git_goit24
+   40  cd git_goit24
+   41  ls -l
+   42  git config --global user.name anzhelastadnyk
+   43  git config --get user.name
+   44  git config --global user.email anzhela_stadnyk@ukr.net
+   45  git config -- get user.email
+   46  clear
+   47  git config --get user.email
+   48  git clone https://github.com/Anzhela230598/HW_10.git
+   49  ls -l
+   50  cd HW_10
+   51  clear
+   52  cd HW_10/
+   53  CLEAR
+   54  ls -l
+   55  ls -la
+   56  touch text_ignore.txt
+   57  nano gitignore
+   58  ls -l
+   59  git status
+   60  git add .
+   61  git commit -m "changed gitignore"
+   62  touch main_test.txt
+   63  ls -l
+   64  git add .
+   65  git status
+   66  commit -m "added new file"
+   67  git push
+   68  mkdir git_goit
+   69  mkdir git_goit2024
+   70  mkdir goit_git2024
+   71  cd goit_git2024
+   72  ls -l
+   73  git config --global user.name anzhelass
+   74  git config --get user.name
+   75  git config --global user.email anzhela_stadnyk@ukr.net
+   76  git config --global user.email
+   77  git clone https://github.com/Anzhela230598/HW_10.git
+   78  ls -l
+   79  cd HW_10
+   80  ls -l
+   81  ls -la
+   82  nano gitignore
+   83  touch text_ignore.txt
+   84  git status
+   85  git add .
+   86  git commit -m "changed gitignore"
+   87  mkdir goit_git24
+   88  cd goit_git24
+   89  ls -l
+   90  git config --global user.name astadnyk
+   91  git config --get user.name
+   92  git config --global user.email anzhela_stadnyk@ukr.net
+   93  git config --get user.email
+   94  git clone https://github.com/Anzhela230598/HW_10.git
+   95  ls -l
+   96  ls -la
+   97  cd HW_10
+   98  ls -l
+   99  ls -la
+  100  touch text_ignore.txt
+  101  nano .gitignore
+  102  git status
+  103  git add .
+  104  git commit -m "changed gitignore"
+  105  touch main_test.txt
+  106  git status
+  107  git add .
+  108  git commit -m "created file"
+  109  git checkout -b develop
+  110  touch develop_test.txt
+  111  ls -l
+  112  git status
+  113  git add .
+  114  git commit -m "added new file"
+  115  nano develop_test.txt file
+  116  git status
+  117  git add .
+  118  git commit -m "changed file"
+  119  git checkout main
+  120  git merge develop
+  121  git log
+  122  history > command_list.csv
